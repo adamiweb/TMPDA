@@ -1,7 +1,6 @@
 {
   "short_name": "Arino",
   "name": "Creative Agency React Template",
-  "homepage": "https://adamiweb.github.io/tmpda",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "./",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#181818"
