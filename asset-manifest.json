@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tmpda/build/static/css/main.ebbdf2ac.css",
-    "main.js": "/tmpda/build/static/js/main.6dda9fe9.js",
-    "index.html": "/tmpda/build/index.html",
-    "main.ebbdf2ac.css.map": "/tmpda/build/static/css/main.ebbdf2ac.css.map",
-    "main.6dda9fe9.js.map": "/tmpda/build/static/js/main.6dda9fe9.js.map"
+    "main.css": "/tmpda/static/css/main.ebbdf2ac.css",
+    "main.js": "/tmpda/static/js/main.6dda9fe9.js",
+    "index.html": "/tmpda/index.html",
+    "main.ebbdf2ac.css.map": "/tmpda/static/css/main.ebbdf2ac.css.map",
+    "main.6dda9fe9.js.map": "/tmpda/static/js/main.6dda9fe9.js.map"
   },
   "entrypoints": [
     "static/css/main.ebbdf2ac.css",
